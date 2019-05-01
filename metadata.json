@@ -28,7 +28,7 @@
     "3.32",
     "3.33"
   ], 
-  "url": "https://github.com/zpydr/gnome-shell-extension-taskbar", 
-  "uuid": "TaskBar@zpydr", 
-  "version": 57
+  "url": "https://github.com/remyj38/gnome-shell-extension-taskbar", 
+  "uuid": "TaskBar@remyj38", 
+  "version": 58
 }
